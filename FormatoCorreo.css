@@ -1,0 +1,24 @@
+
+<style>
+	table{
+		border:0;
+ 		cellspacing:0; 
+		cellpadding:0; 
+		width:100.9%;
+		margin-left:3.0pt;
+        border-collapse: collapse;
+	}
+		table th{
+		     background:#e6ffcc;padding-right: 10px;
+      padding: 10px 0;text-align: center;
+		}
+			
+		
+		table tr{ 
+			table td {
+				 width:484.1pt;;padding:2.25pt 4.5pt 3.0pt 4.5pt;background:#FFFFFF;
+			}
+
+		}
+tr:nth-child(even) {background-color: #f2f2f2;}
+</style>
